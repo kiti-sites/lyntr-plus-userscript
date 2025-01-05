@@ -63,7 +63,7 @@
             "enabled": true,
             "mode": "image", // "image" or "color" Select the mode between an image or a color
             "color": "", // The color to set the background to if the mode is set to "color"
-            "image": "https://raw.githubusercontent.com/Sylicium/lyntr-plus-userscript/main/assets/images/butterfly_blue.jpeg", // The image URL for the background. You have some images on the github under ./assets/images/
+            "image": "https://i1.sndcdn.com/avatars-000631822068-abafgy-t240x240.jpg", // The image URL for the background. You have some images on the github under ./assets/images/
             "doneClassName": "lyntr-plus-background-353CpZ7e89A6nSlP", // DO NOT EDIT THIS LINE
         },
         "lyntTransparency": {
